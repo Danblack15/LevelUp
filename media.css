@@ -310,6 +310,12 @@
         height: 63vw;
         margin: 0 8vw;
     }
+    .center_block input{
+        font-size: 5vw;
+        width: 25vw;
+        height: 9vw;
+        transform: translateY(13vw);
+    }
     .left_sostav div:nth-child(1)::after{
         width: 6vw;
         right: -7vw;
