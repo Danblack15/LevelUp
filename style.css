@@ -160,6 +160,12 @@ header{
     background-image: url('img/prod.png');
     background-position: center;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.center_block input{
+    transform: translateY(70px);
 }
 .sostav section{
     display: flex;
